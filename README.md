@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SomeNerdWithAPC
-- 👀 I’m interested in Being a massive Nerd
-- 🌱 I’m currently learning How to make crappy Programs
-- 💞️ I’m looking to collaborate on Nothing
+- 👀 I’m interested in Linux
+- 🌱 I’m currently learning How to use C
+- 💞️ I’m looking to collaborate on Linux
 - 📫 Reach me on Discord at @Cash#2258
 
 <!---
